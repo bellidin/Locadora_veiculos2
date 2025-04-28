@@ -1,0 +1,14 @@
+[
+    {
+        "tipo": "Carro",
+        "modelo": "Fusca",
+        "placa": "KIQ2112",
+        "disponivel": false
+    },
+    {
+        "tipo": "Moto",
+        "modelo": "Xr500",
+        "placa": "BOO0306",
+        "disponivel": true
+    }
+]
